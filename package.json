@@ -1,0 +1,29 @@
+{
+  "name": "meanshift_js",
+  "version": "1.0.0",
+  "description": "MeanShift_js is a pure javascript simple implementation of mean shift based on MeanShift_cpp, MeanShift_py by Matt Nedrich(mattnedrich).",
+  "main": "javascript/MeanShift.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunzhuoshi/MeanShift_js.git"
+  },
+  "keywords": [
+    "mean",
+    "shift",
+    "cluster"
+  ],
+  "author": "sunzhuoshi@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "google-closure-compiler-js": "^20170521.0.0",
+    "mocha": "^3.4.2",
+    "webpack": "^1.13.3"
+  },
+  "bugs": {
+    "url": "https://github.com/sunzhuoshi/MeanShift_js/issues"
+  },
+  "homepage": "https://github.com/sunzhuoshi/MeanShift_js#readme"
+}

@@ -1,2 +1,2 @@
 # MeanShift_js
-Mean shift clustering Implementation in javascript based on MeanShift_cpp by Matt Nedrich
+MeanShift_js is a pure javascript simple implementation of mean shift based on MeanShift_cpp, MeanShift_py by Matt Nedrich(mattnedrich).
